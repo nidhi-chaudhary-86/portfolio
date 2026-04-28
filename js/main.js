@@ -9,7 +9,7 @@
    BOOT
 ═══════════════════════════════════════════ */
 document.addEventListener('DOMContentLoaded', () => {
-  fetch('data/portfolio.json')
+  fetch('./data/portfolio.json')
     .then(r => {
       if (!r.ok) throw new Error(`Could not load portfolio.json (${r.status})`);
       return r.json();
