@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "name": "Nidhi Chaudhary",
+    "title": "Senior MTS · Salesforce",
+    "tagline": "Machine Learning Engineer at Salesforce building secure ML platforms for data scientists. I dive deep into problems, architect for scale, and have led teams across three continents.",
+    "location": "San Francisco, California",
+    "phone": "(213)-725-8641",
+    "email": "nidhicha@usc.edu",
+    "resume": "Nidhi_Chaudhary_Resume.pdf",
+    "available": false,
+    "social": {
+      "linkedin": "https://linkedin.com/in/nidhi86",
+      "github": "https://github.com/nidhi-86",
+      "scholar": "https://scholar.google.com/citations?user=P5SksxwAAAAJ&hl=en"
+    },
+    "stats": [
+      { "value": "3+",   "label": "Yrs @ SF" },
+      { "value": "3.85", "label": "M.S. GPA" },
+      { "value": "4",    "label": "Patents" }
+    ]
+  },
+
+  "skills": [
+    "Java", "Python", "Machine Learning", "React", "Distributed Systems",
+    "TypeScript", "Spring Boot", "Kubernetes", "Cassandra", "ML Platforms",
+    "Docker", "Kafka", "PostgreSQL", "Flask", "Node.js", "Istio", "AWS"
+  ],
+
+  "education": [
+    {
+      "degree": "Master of Science, Computer Science",
+      "track": "General Track",
+      "school": "University of Southern California",
+      "location": "Los Angeles, CA",
+      "period": "Aug 2019 – May 2021",
+      "gpa": "3.85 / 4.00",
+      "logo": "images/usc_logo.png",
+      "courses": [
+        "Analysis of Algorithms",
+        "Artificial Intelligence",
+        "Database Systems",
+        "Web Technologies",
+        "Machine Learning",
+        "Information Retrieval",
+        "Applied ML for Games"
+      ]
+    },
+    {
+      "degree": "Bachelor of Technology, CSE",
+      "track": "Computer Science and Engineering",
+      "school": "IIITDM Jabalpur",
+      "location": "Jabalpur, India",
+      "period": "Aug 2013 – May 2017",
+      "gpa": "9.1 / 10.0",
+      "logo": "images/iiitdmj_logo.png",
+      "courses": [
+        "Data Structures & Algorithms",
+        "Operating Systems",
+        "Computer Networks",
+        "Machine Learning",
+        "Compiler Design",
+        "Game Theory",
+        "Discrete Math",
+        "Parallel Algorithms",
+        "Wireless Sensor Networks",
+        "Software Engineering"
+      ]
+    }
+  ],
+
+  "experience": [
+    {
+      "company": "Salesforce",
+      "role": "Senior Member of Technical Staff",
+      "location": "San Francisco, CA",
+      "period": "Aug 2022 – Present",
+      "emoji": "☁️",
+      "points": [
+        "Develop a machine learning prototyping and debugging platform for Salesforce's data scientists and engineers to explore end-customer data in a secure and compliant manner.",
+        "Provide on-call support, resolve issues, research and design new features.",
+        "Implement, test, deploy and review functionalities and develop applications adhering to design patterns."
+      ],
+      "tech": ["Java", "Python", "ML Platforms", "Kubernetes", "Istio", "Docker", "REST APIs"]
+    },
+    {
+      "company": "Salesforce",
+      "role": "Member of Technical Staff",
+      "location": "San Francisco, CA",
+      "period": "Jun 2021 – Jul 2022",
+      "emoji": "☁️",
+      "points": [
+        "Develop a machine learning prototyping and debugging platform for Salesforce's data scientists and engineers to explore end-customer data in a secure and compliant manner.",
+        "Implement, test, deploy and review functionalities and develop applications adhering to design patterns."
+      ],
+      "tech": ["Java", "Spring", "Kubernetes", "Docker", "Jenkins"]
+    },
+    {
+      "company": "Salesforce Research",
+      "role": "Software Engineering Intern",
+      "location": "San Francisco, CA",
+      "period": "Jun 2020 – Aug 2020",
+      "emoji": "🔬",
+      "points": [
+        "Implemented unified approval process for Training and Experimentation to provide a platform for common approval flow for all projects."
+      ],
+      "tech": ["Java", "Spring", "SQL", "Jenkins", "Maven", "Kubernetes"]
+    },
+    {
+      "company": "Vassar Labs",
+      "role": "Software Engineer",
+      "location": "Hyderabad, India",
+      "period": "Jun 2017 – Jul 2019",
+      "emoji": "🚀",
+      "points": [
+        "Led a team of 4 to implement a backend framework for uploading data of multiple projects across partitions and serving it to mobile applications through REST APIs.",
+        "Designed a failsafe system for real-time reception and storage of time-series JSON and media data from mobile applications, relayed to third parties after analytics — 3× faster than the previous system."
+      ],
+      "tech": ["Java", "Spring", "Cassandra", "Kafka", "Redis", "Docker", "Android", "Maven"]
+    },
+    {
+      "company": "Canon Inc.",
+      "role": "Software Engineering Intern",
+      "location": "Kawasaki, Japan",
+      "period": "May 2016 – Nov 2016",
+      "emoji": "📸",
+      "points": [
+        "Developed a standalone application to assist image processing-based IP verification, eliminating the manual process of difference visualization between Golden model and IP-generated images."
+      ],
+      "tech": ["Python", "OpenCV", "PyQt"]
+    }
+  ],
+
+  "skills_detail": {
+    "Languages": ["Java", "Python", "C", "PHP"],
+    "Frameworks": ["Spring", "Maven", "Kafka", "Flask", "Android", "OpenCV", "PyQt", "Play Framework", "Redis", "Mockito", "Jenkins", "Liquibase"],
+    "Web": ["React", "Node.js", "TypeScript", "JavaScript", "HTML", "CSS", "Bootstrap"],
+    "Databases": ["Cassandra", "MySQL", "PostgreSQL", "AWS S3"],
+    "Infrastructure": ["Kubernetes", "Istio", "Docker", "AWS", "GCP", "REST APIs"]
+  },
+
+  "projects": [
+    {
+      "title": "Chinese Checkers AI Agent",
+      "subtitle": "Minimax with alpha-beta pruning to depth 4",
+      "image": "",
+      "period": "Sep 2019 – Oct 2019",
+      "description": "Built an AI agent to play and win Chinese Checkers in minimum moves by anticipating decision trees to depth 4 using minimax with alpha-beta pruning.",
+      "tech": ["Java", "AI", "Minimax", "Alpha-Beta Pruning"]
+    },
+    {
+      "title": "FOL Inference System",
+      "subtitle": "Resolution-based first-order logic reasoning",
+      "image": "",
+      "period": "Oct 2019 – Nov 2019",
+      "description": "Developed a first-order logic inference engine for parsing and inferring FOL semantics using resolution — including parsing, processing, and unification.",
+      "tech": ["Java", "AI", "Logic", "Resolution", "Unification"]
+    },
+    {
+      "title": "News Aggregator Website",
+      "subtitle": "Guardian + NYT APIs, deployed on GCP",
+      "image": "images/react-assignment.png",
+      "period": "Mar 2020 – Apr 2020",
+      "description": "Full-stack responsive news platform with Guardian & NYT APIs, Bing autosuggest, bookmarking, social sharing, and persistent comments.",
+      "tech": ["ReactJS", "NodeJS", "Express", "Bootstrap", "GCP"]
+    },
+    {
+      "title": "News & Weather Android App",
+      "subtitle": "Location-aware with MP chart trends",
+      "image": "images/app.png",
+      "period": "Apr 2020 – May 2020",
+      "description": "Android app with GPS-based weather, Guardian news, keyword trend charts, autosuggest search, and bookmarking.",
+      "tech": ["Android", "NodeJS", "GCP", "MPChart"]
+    },
+    {
+      "title": "NewsApp — JS + Flask",
+      "subtitle": "DOM-driven carousels and word clouds",
+      "image": "images/js-assignment.png",
+      "period": "Feb 2020 – Mar 2020",
+      "description": "Dynamic news site with Flask backend, DOM manipulation for carousels and word clouds, multi-dimension article search.",
+      "tech": ["JavaScript", "HTML/CSS", "Python", "Flask", "AWS"]
+    },
+    {
+      "title": "Spoken Language Classifier",
+      "subtitle": "Neural network audio classification",
+      "image": "",
+      "period": "Dec 2016 – May 2017",
+      "description": "Built a neural network-based classifier to identify spoken languages from audio features as an undergraduate capstone project.",
+      "tech": ["Python", "Neural Networks", "ML", "Audio Processing"]
+    }
+  ],
+
+  "patents": [
+    {
+      "title": "Fine Granularity Control of Data Access and Usage Across Multi-Tenant Systems",
+      "number": "US12556545B2",
+      "year": "2025",
+      "url": "https://patents.google.com/patent/US12556545B2"
+    },
+    {
+      "title": "Fine Granularity Control of Data Access and Usage Across Multi-Tenant Systems",
+      "number": "US20250106221A1",
+      "year": "2025",
+      "url": "https://patents.google.com/patent/US20250106221A1"
+    },
+    {
+      "title": "Fine Granularity Control of Data Access and Usage Across Multi-Tenant Systems",
+      "number": "US20250106200A1",
+      "year": "2025",
+      "url": "https://patents.google.com/patent/US20250106200A1"
+    },
+    {
+      "title": "Fine Granularity Control of Data Access and Usage Across Multi-Tenant Systems",
+      "number": "US12537824B2",
+      "year": "2025",
+      "url": "https://patents.google.com/patent/US12537824B2"
+    }
+  ],
+
+  "achievements": [
+    {
+      "emoji": "🌏",
+      "text": "Participated in <strong>Jenesys 2.0</strong>, a cultural exchange programme organized by the Japanese government (JICE)."
+    },
+    {
+      "emoji": "🐍",
+      "text": "<strong>Certified</strong> in Programming for Everybody (Getting Started with Python) — Coursera × University of Michigan."
+    },
+    {
+      "emoji": "📊",
+      "text": "<strong>Certified</strong> in Python Data Structures — Coursera × University of Michigan."
+    },
+    {
+      "emoji": "🤖",
+      "text": "<strong>Certified</strong> in Machine Learning — Coursera × Stanford University."
+    },
+    {
+      "emoji": "📱",
+      "text": "<strong>Planned and coordinated</strong> an Android app development workshop for students at IIITDM Jabalpur."
+    }
+  ]
+}
