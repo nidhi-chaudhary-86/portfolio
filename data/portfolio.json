@@ -1,7 +1,7 @@
 {
   "meta": {
     "name": "Nidhi Chaudhary",
-    "title": "Senior MTS · Salesforce",
+    "title": "Lead MTS · Salesforce",
     "tagline": "Machine Learning Engineer at Salesforce building secure ML platforms for data scientists. I dive deep into problems, architect for scale, and have led teams across three continents.",
     "location": "San Francisco, California",
     "phone": "(213)-725-8641",
@@ -21,9 +21,9 @@
   },
 
   "skills": [
-    "Java", "Python", "Machine Learning", "React", "Distributed Systems",
+    "Java", "Python", "Machine Learning", "React", "Distributed Systems", "Pytorch",
     "TypeScript", "Spring Boot", "Kubernetes", "Cassandra", "ML Platforms",
-    "Docker", "Kafka", "PostgreSQL", "Flask", "Node.js", "Istio", "AWS"
+    "Docker", "Kafka", "PostgreSQL", "Flask", "Node.js", "Istio", "AWS", "SageMaker AI"
   ],
 
   "education": [
@@ -69,6 +69,17 @@
   ],
 
   "experience": [
+    {
+      "company": "Salesforce",
+      "role": "Lead Member of Technical Staff",
+      "location": "Palo Alto, CA",
+      "period": "Aug 2026 – Present",
+      "emoji": "☁️",
+      "points": [
+        "AI inferencing platform for hosting, scaling and optimizing predictive and generative models across AWS SageMaker,Bedrock, GCP Vertex and Hyperpod"
+      ],
+      "tech": ["Java", "Python", "ML Platforms", "Kubernetes", "GCP", "Docker", "AWS", "vLLM", "PyTorch"]
+    },
     {
       "company": "Salesforce",
       "role": "Senior Member of Technical Staff",
